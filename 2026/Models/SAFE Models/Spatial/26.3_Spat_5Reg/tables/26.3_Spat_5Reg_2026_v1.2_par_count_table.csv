@@ -1,0 +1,12 @@
+"","name","n_pars"
+"1","conv_tag_fish_reporting_pars",3
+"2","fish_fixed_sel_pars",12
+"3","ln_F_devs",649
+"4","ln_F_mean",10
+"5","ln_InitDevs",140
+"6","ln_RecDevs",335
+"7","ln_global_R0",1
+"8","ln_srv_q",2
+"9","move_pars",60
+"10","rec_region_prop_pars",4
+"11","srv_fixed_sel_pars",7

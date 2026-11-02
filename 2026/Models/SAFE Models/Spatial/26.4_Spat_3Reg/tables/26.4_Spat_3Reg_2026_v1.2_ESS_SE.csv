@@ -1,0 +1,22 @@
+"","Source","SE","Data_Wt","ISS","ESS"
+"1","BS LL Survey Index",0.2,1,NA,NA
+"2","BS JPN LL Survey Index",0.25,1,NA,NA
+"3","AI LL Survey Index",0.23,1,NA,NA
+"4","AI JPN LL Survey Index",0.25,1,NA,NA
+"5","GOA LL Survey Index",0.08,1,NA,NA
+"6","GOA JPN LL Survey Index",0.07,1,NA,NA
+"7","BS LL Survey Ages",NA,1,33,33
+"8","BS JPN LL Survey Ages",NA,1,33,33
+"9","AI LL Survey Ages",NA,1,33,33
+"10","AI JPN LL Survey Ages",NA,1,33,33
+"11","GOA LL Survey Ages",NA,1,33,33
+"12","GOA JPN LL Survey Ages",NA,1,33,33
+"13","BS Fixed Gear Fishery Ages",NA,1,25,25
+"14","BS Fixed Gear Fishery Lengths",NA,NA,NA,NA
+"15","BS Trawl Fishery Lengths",NA,1,26.81,26.81
+"16","AI Fixed Gear Fishery Ages",NA,1,25,25
+"17","AI Fixed Gear Fishery Lengths",NA,NA,NA,NA
+"18","AI Trawl Fishery Lengths",NA,1,20.56,20.56
+"19","GOA Fixed Gear Fishery Ages",NA,1,50,50
+"20","GOA Fixed Gear Fishery Lengths",NA,NA,NA,NA
+"21","GOA Trawl Fishery Lengths",NA,1,25.88,25.88

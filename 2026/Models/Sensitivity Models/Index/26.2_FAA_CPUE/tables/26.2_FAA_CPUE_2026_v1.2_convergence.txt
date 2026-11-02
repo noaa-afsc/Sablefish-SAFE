@@ -1,0 +1,5 @@
+G3;Parameter: ln_global_R0 had absolute gradient = 0.000301174619168665 which was greater than tolerance 1e-05. This indicates potential non-convergence according to the tolerance.
+
+gG3;Hessian is not positive definite, model is not converged!
+gG3;Found non finite elements in standard errors of parameters, model is not converged!
+g

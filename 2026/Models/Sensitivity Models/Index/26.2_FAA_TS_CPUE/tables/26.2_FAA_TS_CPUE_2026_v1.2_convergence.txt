@@ -1,0 +1,5 @@
+G3;Parameter: ln_F_mean had absolute gradient = 8.01611297621407e-05 which was greater than tolerance 1e-05. This indicates potential non-convergence according to the tolerance.
+
+gG3;Hessian is not positive definite, model is not converged!
+gG3;Found non finite elements in standard errors of parameters, model is not converged!
+g

@@ -1,0 +1,14 @@
+'fsh_length_comp_raw.csv'
+.Rproj.user
+*.png
+!2026/Models/**/*.png
+.Rproj.user/shared/notebooks/paths
+*mcmc.rds
+*all_outputs.rdata
+*_Francis_mean_fsh.png
+*_Francis_mean_srvy.png
+*26.2_FAA_TV_Selex_LLS_2026_v1.2_model_results.RDS
+*26.3_Spat_5Reg_2026_v1.2_model_results.RDS
+*26.3_Spat_5Reg_2026_v1.2_loo.RDS
+*26.3_Spat_5Reg_2026_v1.2_bridge.RDS
+*26.3_Spat_5Reg_2026_v1.2_All_Figs.pdf

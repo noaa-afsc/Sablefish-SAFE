@@ -1,0 +1,36 @@
+"","Source","SE","Data_Wt","ISS","ESS"
+"1","BS LL Survey Index",0.2,1,NA,NA
+"2","BS JPN LL Survey Index",0.25,1,NA,NA
+"3","AI LL Survey Index",0.23,1,NA,NA
+"4","AI JPN LL Survey Index",0.25,1,NA,NA
+"5","WGOA LL Survey Index",0.18,1,NA,NA
+"6","WGOA JPN LL Survey Index",0.18,1,NA,NA
+"7","CGOA LL Survey Index",0.13,1,NA,NA
+"8","CGOA JPN LL Survey Index",0.12,1,NA,NA
+"9","EGOA LL Survey Index",0.11,1,NA,NA
+"10","EGOA JPN LL Survey Index",0.1,1,NA,NA
+"11","BS LL Survey Ages",NA,1,20,20
+"12","BS JPN LL Survey Ages",NA,1,20,20
+"13","AI LL Survey Ages",NA,1,20,20
+"14","AI JPN LL Survey Ages",NA,1,20,20
+"15","WGOA LL Survey Ages",NA,1,20,20
+"16","WGOA JPN LL Survey Ages",NA,1,20,20
+"17","CGOA LL Survey Ages",NA,1,20,20
+"18","CGOA JPN LL Survey Ages",NA,1,20,20
+"19","EGOA LL Survey Ages",NA,1,20,20
+"20","EGOA JPN LL Survey Ages",NA,1,20,20
+"21","BS Fixed Gear Fishery Ages",NA,1,25,25
+"22","BS Fixed Gear Fishery Lengths",NA,NA,NA,NA
+"23","BS Trawl Fishery Lengths",NA,1,12,12
+"24","AI Fixed Gear Fishery Ages",NA,1,20,20
+"25","AI Fixed Gear Fishery Lengths",NA,NA,NA,NA
+"26","AI Trawl Fishery Lengths",NA,1,12,12
+"27","WGOA Fixed Gear Fishery Ages",NA,1,14,14
+"28","WGOA Fixed Gear Fishery Lengths",NA,NA,NA,NA
+"29","WGOA Trawl Fishery Lengths",NA,1,7,7
+"30","CGOA Fixed Gear Fishery Ages",NA,1,18,18
+"31","CGOA Fixed Gear Fishery Lengths",NA,NA,NA,NA
+"32","CGOA Trawl Fishery Lengths",NA,1,7,7
+"33","EGOA Fixed Gear Fishery Ages",NA,1,18,18
+"34","EGOA Fixed Gear Fishery Lengths",NA,NA,NA,NA
+"35","EGOA Trawl Fishery Lengths",NA,1,7,7

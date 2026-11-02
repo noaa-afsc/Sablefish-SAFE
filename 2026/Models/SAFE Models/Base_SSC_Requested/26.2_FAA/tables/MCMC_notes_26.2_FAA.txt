@@ -1,0 +1,5 @@
+Model 'RTMB' has 274 pars and was fit using SNUTS with a 'dense' metric
+4 chain(s) of 20500 total iterations (500 warmup) were used
+Run time per chain: average= 8.99 and max= 10.84 hours 
+Min bulk ESS=1089.1 (1.36%) [ln_RecDevs[21]] and maximum Rhat=1.005 [ln_RecDevs[24]]
+There were 132 divergences after warmup

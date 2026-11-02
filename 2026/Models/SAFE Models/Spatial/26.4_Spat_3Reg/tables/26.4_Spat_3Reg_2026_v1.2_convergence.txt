@@ -1,0 +1,3 @@
+Parameter: move_pars has a standard error = 2.20727974407094 which was greated than tolerance 2. This indicates potential non-convergence according to the tolerance. 
+
+Parameter pairs: move_pars and move_pars have a correlation of 0.983203328422274. This indicates potential non-convergence according to the tolerance.
