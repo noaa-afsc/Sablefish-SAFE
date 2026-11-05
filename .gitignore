@@ -1,7 +1,7 @@
 'fsh_length_comp_raw.csv'
 .Rproj.user
 *.png
-!2026/Models/**/*.png
+!2026/**/*.png
 .Rproj.user/shared/notebooks/paths
 *mcmc.rds
 *all_outputs.rdata
